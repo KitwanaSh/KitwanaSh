@@ -7,9 +7,11 @@ I am a data analyst with the expertises in tools like __Python__, __R programmin
 
 I am currectly working on couple of data analysis projects for myself just to stay in shape and inrich my kills in this domain. I am currently in a Software Engineering learning program held by ALX-Africa where we take on short and sometimes long projects every single week to build coding muscles for now and you can find my alx project in every repository name starting with the word `alx`.
 
-To reach me out, please send me an e-mail on rodriguekitweze@gmail.com.
-
 _I am a type of ma who believe that learning is a never ending process. I learn at leat one thing new every single day in my life._
+
+Reach me on:
+
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/KitwanaEzechiel) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kitwanasheb/)
 <!--
 **KitwanaSh/KitwanaSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

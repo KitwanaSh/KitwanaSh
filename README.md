@@ -1,5 +1,15 @@
-### Hi there everyone 👋
+### Hi there everyone 👋, my name is Kitwana Shebabetsi Ezechiel
+<hr>
+##### Thank you for taking time to read my profile
+===============================================================
 
+I am a data analyst with the expertises in tools like __Python__, __R programming__, __SQL__, __Tableau__, __Version Control (Git)__ and __spreadsheet__ and thanks to my previous dedication and hard work in courses i acquired the these skills. I am looking to collaborate on data analysis projects.
+
+I am currectly working on couple of data analysis projects for myself just to stay in shape and inrich my kills in this domain. I am currently in a Software Engineering learning program held by ALX-Africa where we take on short and sometimes long projects every single week to build coding muscles for now and you can find my alx project in every repository name starting with the word `alx`.
+
+To reach me out, please send me an e-mail on rodriguekitweze@gmail.com.
+
+_I am a type of ma who believe that learning is a never ending process. I learn at leat one thing new every single day in my life._
 <!--
 **KitwanaSh/KitwanaSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

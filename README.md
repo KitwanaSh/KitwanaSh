@@ -1,4 +1,7 @@
-### Hi there everyone 👋, my name is Kitwana Shebabetsi Ezechiel
+### Hi there 👋, my name is Kitwana Shebabetsi Ezechiel
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <hr>
 ##### Thank you for taking time to read my profile
 ===============================================================

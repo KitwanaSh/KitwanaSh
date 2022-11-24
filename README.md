@@ -16,7 +16,7 @@ _I am a type of ma who believe that learning is a never ending process. I learn 
 </div>
 
 Reach me on:
-<div id="badges" align="center">
+<div align="center">
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/KitwanaEzechiel) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kitwanasheb/)
 </div>
 ---
@@ -52,10 +52,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr>
-### 💻 My progressive tasks
+### 💻 : My progressive tasks :
 
+<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KitwanaSh&theme=dracula)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KitwanaSh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KitwanaSh&theme=highcontrast&show_icons=true&count_private=true)
+</div>

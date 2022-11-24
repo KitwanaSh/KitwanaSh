@@ -58,4 +58,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KitwanaSh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=KitwanaSh8&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=KitwanaSh&theme=highcontrast&show_icons=true&count_private=true)

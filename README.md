@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr>
-### :💻 : My progressive tasks :
+### 💻 : My progressive tasks :
 
 <div align="center">
 

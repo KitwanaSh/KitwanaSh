@@ -12,7 +12,7 @@ I am currectly working on couple of data analysis projects for myself just to st
 
 _I am a type of ma who believe that learning is a never ending process. I learn at leat one thing new every single day in my life._
 <div align="center">
-  <img src = "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width = "30px"/>
+  <img src = "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width = "80px"/>
 </div>
 
 Reach me on:
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr>
-### 💻 : My progressive tasks :
+### :💻 : My progressive tasks :
 
 <div align="center">
 

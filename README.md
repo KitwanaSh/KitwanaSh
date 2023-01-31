@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <hr>
-##### Thank you for taking time to read my profile
+__Thank you for taking time to read my profile__
 ===============================================================
 
 I am a senior data analyst with a great knowledge in tools like __Python__, __SQL__, __Tableau__, __Version Control (Git)__ and __spreadsheet__. Thanks to my previous dedication and hard work in COURSES  i acquired the these skills for the sake of data analysis.

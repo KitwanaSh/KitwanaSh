@@ -8,7 +8,7 @@ __Thank you for taking time to read my profile__
 
 I am a senior data analyst with a great knowledge in tools like __Python__, __SQL__, __Tableau__, __Version Control (Git)__ and __spreadsheet__. Thanks to my previous dedication and hard work in COURSES  i acquired the these skills for the sake of data analysis.
 
-I am currectly working on couple of data analysis projects for myself just to stay in shape and inrich my kills in this domain. I am currently in a Software Engineering learning program held by ALX-Africa where we take on short and sometimes long projects every single week to build coding muscles for now and you can find my alx project in every repository name starting with the word `alx`.
+I am currectly working on couple of data analysis projects for myself just to stay in shape and inrich my kills in this domain. I had the opportunities to participate in two data analytics virtural experiences from Tata and Quatium respectively. Thanks to these experiences, I feel confortable to work as a data analtysta and to interprete statistical results.
 
 _I am a type of ma who believe that learning is a never ending process. I learn at leat one thing new every single day in my life._
 <div align="center">

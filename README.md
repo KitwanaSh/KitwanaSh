@@ -10,7 +10,7 @@ I am a senior data analyst with a great knowledge in tools like __Python__, __SQ
 
 I am currectly working on couple of data analysis projects for myself just to stay in shape and inrich my kills in this domain. I had the opportunities to participate in two data analytics virtural experiences from Tata and Quatium respectively. Thanks to these experiences, I feel confortable to work as a data analtysta and to interprete statistical results.
 
-_I am a type of ma who believe that learning is a never ending process. I learn at leat one thing new every single day in my life._
+I am a type of ma who believe that learning is a never ending process. I learn at leat one thing new every single day in my life.
 <div align="center">
   <img src = "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width = "350px"/>
 </div>
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr>
-### 💻 : My progressive tasks :
+### My progressive tasks :
 
 <div align="center">
 

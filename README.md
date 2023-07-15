@@ -68,3 +68,10 @@ Here are some ideas to get you started:
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=KitwanaSh&theme=highcontrast&show_icons=true&count_private=true)
 
+### My Trophies🏆 <!--My Trophies-->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KitwanaSh&theme=tokyonight&no-bg=false&no-frame=false&count_private=true)](https://github.com/Florence-wangui/Florence-wangui)
+
+## My Contribution Graph :bar_chart:
+
+[![Kitwana S. Ezechiel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KitwanaSh&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)

@@ -3,8 +3,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <hr>
-__Thank you for taking time to read my profile__
-===============================================================
+
+Thank you for taking time to read my profile
+============================================
 
 I am a senior data analyst with a great knowledge in tools like __Python__, __SQL__, __Tableau__, __Version Control (Git)__ and __spreadsheet__. Thanks to my previous dedication and hard work in taking online COURSES,  i acquired the these skills for the sake of data analysis.
 
@@ -53,13 +54,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr>
+
 ### My progressive tasks :
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=KitwanaSh&style=compact-square&color=blue" align="center" alt=""/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KitwanaSh&theme=dracula)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KitwanaSh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=KitwanaSh&theme=highcontrast&show_icons=true&count_private=true)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KitwanaSh&langs_count=20&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=KitwanaSh&theme=highcontrast&show_icons=true&count_private=true)
+

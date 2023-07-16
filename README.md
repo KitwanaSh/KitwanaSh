@@ -61,4 +61,4 @@ I love football and my favorite club team is Barcelona. I also love taming anima
 
 ## My Contribution Graph :bar_chart:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KitwanaSh)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kitwana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KitwanaSh)](https://github.com/KitwanaSh/github-readme-activity-graph)

@@ -51,13 +51,17 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>$nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-- ⚡ Fun fact: ...
--->
+
+⚡ Fun fact: ...
+
+I love football and my favorite club team is Barcelona. I also love to tame animals like rabbies, chikens, ...
+
+<img src="https://komarev.com/ghpvc/?username=KitwanaSh&style=compact-square&color=blue" align="center" alt=""/>
+
 <hr>
 
 ### My progressive tasks :
 
-<img src="https://komarev.com/ghpvc/?username=KitwanaSh&style=compact-square&color=blue" align="center" alt=""/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KitwanaSh&theme=dracula)](https://git.io/streak-stats)
 

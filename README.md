@@ -65,7 +65,7 @@ I love football and my favorite club team is Barcelona. I also love to tame anim
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KitwanaSh&theme=dracula)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KitwanaSh&langs_count=20&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KitwanaSh&langs_count=20&layout=compact&theme=vision-friendly-dark&count_private=true)(https://github.com/anuraghazra/github-readme-stats)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=KitwanaSh&theme=highcontrast&show_icons=true&count_private=true)
 

@@ -7,11 +7,13 @@
 Thank you for taking time to read my profile
 ============================================
 
-I am a senior data analyst with a great knowledge in tools like __Python__, __SQL__, __Tableau__, __Version Control (Git)__ and __spreadsheet__. Thanks to my previous dedication and hard work in taking online COURSES,  i acquired the these skills for the sake of data analysis.
+I am a senior data analyst with a great knowledge in tools like __Python__, __SQL__, __Tableau__, __Version Control (Git)__ and __spreadsheet__. Thanks to my previous dedication and hard work in taking online COURSES,  i acquired these skills for the sake of data analysis.
 
-I am currectly working on couple of data analysis projects for myself just to stay in shape and inrich my kills in this domain. I had the opportunities to participate in two data analytics virtural experiences from Tata and Quatium respectively. Thanks to these experiences, I feel confortable to work as a data analtysta and to interprete statistical results.
+I am currectly working on couple of data analysis projects for myself just to stay in shape and inrich my kills in this domain. I had the opportunities to participate in two data analytics virtural experiences from Tata and Quatium respectively. Thanks to these experiences, I feel confortable to work as a data analtyst and to interprete statistical results.
 
-I am a type of ma who believe that learning is a never ending process. I learn at leat one thing new every single day in my life.
+Another thing is that, i am passionated about enterpreneurship in technology. With that, I have skills in React.js, Next.js and Mongogb, shell that i acquired in order to understand the world of technology and sofware development so that i could be able to create solutions for certain problems that we have in Africa and the world. 
+
+I am a type of ma who believe that learning is a never ending process. I learn at least one thing new every single day in my life.
 <div align="center">
   <img src = "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width = "200px"/>
 </div>

@@ -13,7 +13,7 @@ I am currectly working on couple of data analysis projects for myself just to st
 
 I am a type of ma who believe that learning is a never ending process. I learn at leat one thing new every single day in my life.
 <div align="center">
-  <img src = "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width = "350px"/>
+  <img src = "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width = "200px"/>
 </div>
 
 Reach me on:

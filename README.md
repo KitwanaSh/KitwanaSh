@@ -14,7 +14,7 @@ I am currectly working on couple of data analysis projects for myself just to st
 Another thing is that, i am passionated about enterpreneurship in technology. With that, I have skills in React.js, Next.js and Mongogb, shell that i acquired in order to understand the world of technology and sofware development so that i could be able to create solutions for certain problems that we have in Africa and the world. 
 
 I am a type of ma who believe that learning is a never ending process. I learn at least one thing new every single day in my life.
-<div align="center">
+<div align="left">
   <img src = "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width = "200px"/>
 </div>
 

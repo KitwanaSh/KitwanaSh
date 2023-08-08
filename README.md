@@ -18,6 +18,8 @@ I am a type of ma who believe that learning is a never ending process. I learn a
   <img src = "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width = "200px"/>
 </div>
 
+And 
+
 Reach me on:
 <div align="center">
 

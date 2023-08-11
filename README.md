@@ -7,7 +7,7 @@
 Thank you for taking time to read my profile
 ============================================
 
-I am a senior data analyst with a great knowledge in tools like __Python__, __SQL__, __Tableau__, __Version Control (Git)__ and __spreadsheet__. Thanks to my previous dedication and hard work in taking online COURSES,  i acquired these skills for the sake of data analysis.
+I am a senior data analyst with great knowledge in tools like __Python__, __SQL__, __Tableau__, __Version Control (Git)__ and __spreadsheet__. Thanks to my previous dedication and hard work in online COURSES,  i acquired these skills for the sake of data analysis.
 
 I had the opportunities to participate in two data analytics virtural experiences from Tata and Quatium respectively. Thanks to these experiences, I feel confortable to work as a data analtyst and to interprete statistical results.
 

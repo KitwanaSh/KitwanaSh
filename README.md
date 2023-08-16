@@ -5,7 +5,7 @@
 <hr>
 
 Thank you for taking time to read my profile
-============================================
+=========================================
 
 I am a senior data analyst with great knowledge in tools like __Python__, __SQL__, __Tableau__, __Version Control (Git)__ and __spreadsheet__. Thanks to my previous dedication and hard work in online COURSES,  i acquired these skills for the sake of data analysis.
 

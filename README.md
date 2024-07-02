@@ -7,10 +7,9 @@
 Thank you for taking time to read my profile
 =========================================
 
-I am a senior digital analyst. I do data analytics, software assessment and report, and security analytics in digital forentics.
-On top of that, I am a software Enterpreneur.
+I am a senior Tech Engineer. I solve problems using technology.
 
-I am a type of man who believe that learning is a never ending process. I learn at least one thing new every single day in my life.
+I am a type of man who believe that learning is a never ending process. I learn at least one thing new every single day.
 <div align="left">
   <img src = "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width = "200px"/>
 </div>

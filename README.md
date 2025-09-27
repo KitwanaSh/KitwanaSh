@@ -8,20 +8,17 @@ Thank you for taking time to read my profile
 =========================================
 
 I am a senior Tech Engineer. I solve problems using technology.
-
 I am a type of man who believe that learning is a never ending process. I learn at least one thing new every single day.
 <div align="left">
   <img src = "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width = "200px"/>
 </div>
 
-And 
 
 Reach me on:
 <div align="center">
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/KitwanaEzechiel) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kitwanasheb/)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kitwanasheb/)
 </div>
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
@@ -38,16 +35,11 @@ Reach me on:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-⚡ Fun fact: ...
-
-I love football and my favorite club team is Barcelona. I also love taming animals. I my free time, i spend time feeding rabbies, chikens, goats and many more.
-
 <img src="https://komarev.com/ghpvc/?username=KitwanaSh&style=compact-square&color=blue" align="center" alt=""/>
 
 <hr>
 
 ### My progressive tasks :
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KitwanaSh&theme=dracula)](https://git.io/streak-stats)
 

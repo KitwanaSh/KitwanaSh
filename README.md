@@ -1,56 +1,117 @@
-### Hi there 👋, my name is Kitwana Shebabetsi Ezechiel
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<hr>
+<!-- ============================
+     GitHub Profile README
+     Kitwana Shebabetsi Ezechiel
+     ============================ -->
 
-Thank you for taking time to read my profile
-=========================================
+<h1 align="center">Kitwana Shebabetsi Ezechiel</h1>
 
-I am a senior Tech Engineer. I solve problems using technology.
-I am a type of man who believe that learning is a never ending process. I learn at least one thing new every single day.
-<div align="left">
-  <img src = "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width = "200px"/>
-</div>
+<p align="center">
+  <b>Senior AI & Software Engineer</b> • Building reliable software & intelligent systems • Lifelong learner
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kitwanasheb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-kitwanasheb-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <!-- Optional: add email -->
+  <!-- <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-333333?logo=gmail&logoColor=white" />
+  </a> -->
+  <img src="https://komarev.com/ghpvc/?username=KitwanaSh&style=flat&color=0A66C2" alt="profile views" />
+</p>
 
-Reach me on:
-<div align="center">
+---
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kitwanasheb/)
-</div>
+## About me
 
-### :hammer_and_wrench: Languages and Tools :
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django"  alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+- I design and ship **production-ready software**, from APIs and web apps to automation and data-driven systems.
+- I build **AI/ML solutions** and integrate them into real products (model → service → deployment).
+- I believe learning is a continuous process—**I improve every day**.
 
-<img src="https://komarev.com/ghpvc/?username=KitwanaSh&style=compact-square&color=blue" align="center" alt=""/>
+---
 
-<hr>
+## Core focus
 
-### My progressive tasks :
+- **AI Engineering:** ML pipelines, model integration, evaluation, optimization
+- **Software Engineering:** backend systems, frontend systems, APIs, architecture, clean code, testing
+- **Data:** analytics, scripting, automation, database design
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KitwanaSh&theme=dracula)](https://git.io/streak-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KitwanaSh&langs_count=20&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+## What I build
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=KitwanaSh&theme=highcontrast&show_icons=true&count_private=true)
+- **LLM-powered applications** (LangChain workflows, agents, tool use, structured outputs)
+- **RAG systems** (document ingestion, chunking, embeddings, vector search, retrievers)
+- **ML models & pipelines** (PyTorch training/inference, scikit-learn baselines, evaluation)
+- **Model serving & integration** (API-first deployment, batching, performance tuning)
+- **MLOps foundations** (reproducible experiments, Dockerized services, CI-ready workflows)
 
-### My Trophies🏆 <!--My Trophies-->
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KitwanaSh&theme=tokyonight&no-bg=false&no-frame=false&count_private=true)](https://github.com/Florence-wangui/Florence-wangui)
+## Tech stack
 
-## My Contribution Graph :bar_chart:
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-1f2937?logo=pytorch&logoColor=EE4C2C)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1f2937?logo=scikitlearn&logoColor=F7931E)
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-1f2937?logo=huggingface&logoColor=FFD21E)
+![LangChain](https://img.shields.io/badge/LangChain-1f2937)
 
-[![Kitwana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KitwanaSh&bg_color=06051a&title_color=076f7a&color=076f7a&line=05d4eb&point=fff)](https://github.com/KitwanaSh/github-readme-activity-graph)
+### MLOps / Deployment
+![MLOps](https://img.shields.io/badge/MLOps-1f2937)
+![Docker](https://img.shields.io/badge/Docker-1f2937?logo=docker&logoColor=2496ED)
+
+### Languages
+![Python](https://img.shields.io/badge/Python-1f2937?logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-1f2937?logo=c&logoColor=A8B9CC)
+![R](https://img.shields.io/badge/R-1f2937?logo=r&logoColor=276DC3)
+
+### Backend / Web
+![Django](https://img.shields.io/badge/Django-1f2937?logo=django&logoColor=092E20)
+![Node.js](https://img.shields.io/badge/Node.js-1f2937?logo=node.js&logoColor=339933)
+![HTML5](https://img.shields.io/badge/HTML5-1f2937?logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1f2937?logo=css3&logoColor=1572B6)
+
+### Data / Database / Dev Tools
+![MySQL](https://img.shields.io/badge/MySQL-1f2937?logo=mysql&logoColor=4479A1)
+![Git](https://img.shields.io/badge/Git-1f2937?logo=git&logoColor=F05032)
+
+> If you want, I can tailor this section to your actual AI stack (e.g., PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, Docker, Kubernetes, AWS/Azure/GCP, etc.).
+
+---
+
+## GitHub stats
+
+<!-- These are popular and usually render reliably -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KitwanaSh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=KitwanaSh&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitwanaSh&layout=compact&theme=tokyonight&langs_count=10" alt="Top languages" />
+</p>
+
+---
+
+## Optional extras (enable if they render well for you)
+
+<!-- Trophy card -->
+<!--
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KitwanaSh&theme=tokyonight&no-frame=true&margin-w=8" alt="trophies" />
+</p>
+-->
+
+<!-- Activity graph (can be unstable sometimes) -->
+<!--
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KitwanaSh&bg_color=1f2937&color=93c5fd&line=22c55e&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+</p>
+-->
+
+---
+
+## Let’s connect
+
+- LinkedIn: https://www.linkedin.com/in/kitwanasheb/

@@ -37,7 +37,8 @@ I believe engineering is about **clarity, reliability, and impact**.
 
 ### Software Engineering
 - API-first system design
-- Backend architecture (Django, Node.js)
+- Backend architecture (Django, FastAPI, Node.js)
+- Frontend architecture (React.js, Next.js, React Native)
 - Clean code & testing practices
 - Dockerized production environments
 

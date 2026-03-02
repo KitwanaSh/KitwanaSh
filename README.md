@@ -83,7 +83,8 @@ Focus: real-world disease prediction & data reliability.
 
 **Languages:** Python, JavaScript, C, R  
 **AI/ML:** PyTorch, scikit-learn, Hugging Face  
-**Backend:** Django, Node.js  
+**Backend:** Django, FastAPI, Node.js
+**Frontend:** React.js, React Native, Next.js
 **Deployment:** Docker  
 **Database:** MySQL  
 **Tools:** Git, Linux
@@ -96,9 +97,3 @@ Focus: real-world disease prediction & data reliability.
 - Write code that others can maintain.
 - Deploy models that deliver measurable value.
 - Improve continuously.
-
----
-
-## Let’s Connect
-
-LinkedIn: https://www.linkedin.com/in/kitwanasheb/

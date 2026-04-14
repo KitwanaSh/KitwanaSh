@@ -16,6 +16,8 @@
 
 I design and ship **production-ready AI and software systems**.
 
+I specialize in bridging **machine learning models and real-world systems**, turning research into scalable, reliable applications used in production.
+
 My work focuses on:
 - Turning ML models into deployable services
 - Designing scalable backend architectures
@@ -24,13 +26,17 @@ My work focuses on:
 
 I believe engineering is about **clarity, reliability, and impact**.
 
-<p align="center"><b>Engineering Activity</b></p>
+
+<p align="center"><b>Engineering Analytics</b></p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KitwanaSh&hide_border=true&ring=E66E05&fire=E6E605&currStreakLabel=E6E605&background=161711&sideNums=ffffff&currStreakNum=05E653&dates=05E653" />
+  <img src="https://streak-stats.demolab.com?user=KitwanaSh&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&background=161711&sideNums=E5E7EB&currStreakNum=E5E7EB&dates=9CA3AF" />
 </p>
 
-<p align="center"><b>Contribution Graph</b></p>
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=KitwanaSh&bg_color=161711&color=E66E05&line=E6E605&point=ffffff&area=true&hide_border=true" /> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KitwanaSh&bg_color=161711&color=E5E7EB&line=0EA5E9&point=0EA5E9&area=true&hide_border=true" />
+</p>
+
 
 ## Core Expertise
 
@@ -42,7 +48,7 @@ I believe engineering is about **clarity, reliability, and impact**.
 
 ### Software Engineering
 - API-first system design
-- Backend architecture (Django, FastAPI, Node.js)
+- Backend architecture (Django, FastAPI, Node.js, Flask)
 - Frontend architecture (React.js, Next.js, React Native)
 - Clean code & testing practices
 - Dockerized production environments
@@ -54,43 +60,79 @@ I believe engineering is about **clarity, reliability, and impact**.
 - CI-ready workflows
 
 
-## Selected Work
+## Systems I’ve Built
 
 ### AI-Powered Epidemiological Prediction API
-Production-ready ML inference API using:
-- FastAPI
-- Model lifecycle management
-- Dynamic filtering & batch predictions
-- Dockerized deployment
 
-Focus: real-world disease prediction & data reliability.
+**Problem**  
+Health organizations need reliable, real-time insights to anticipate disease spread across multiple regions.
+
+**Solution**  
+- Built a production-grade ML inference API using FastAPI  
+- Implemented dynamic filtering & batch predictions  
+- Designed model lifecycle management workflows  
+- Deployed using Docker for scalability  
+
+**Impact**  
+Enabled **real-time epidemiological forecasting across multiple health zones**, improving decision-making speed and data reliability.
 
 
-### LLM-based Report Generation System
-- Automated weekly epidemiological reports
-- Structured generation workflows
-- Data ingestion → transformation → summarization
-- Designed for NGO & health-sector transparency
+### LLM-Based Weekly Epidemic Report System
+
+**Problem**  
+Manual epidemiological reporting was slow, inconsistent, and difficult to scale.
+
+**Solution**  
+- Built an AI-powered report generation system  
+- Automated weekly reports using LLMs  
+- Designed full pipeline: data ingestion → transformation → summarization  
+- Integrated both web platform and AI backend  
+
+**Impact**  
+System is actively used by the **Ministry of Health and epidemic response offices in the DRC**, significantly improving reporting efficiency and enabling data-driven decision-making.
+
+
+### Data-Driven File Management System
+
+**Problem**  
+Organizations lacked structured and traceable systems for managing operational data and documents.
+
+**Solution**  
+- Built a full-stack file management platform (backend + web)  
+- Designed structured storage and retrieval system  
+- Focused on transparency, traceability, and reliability  
+
+**Impact**  
+Improved **document workflows, traceability, and data accessibility** for NGO operations.
 
 
 ### AI-Integrated Marketplace Platform
-- Django REST backend
-- Payment integration
-- Scalable service architecture
-- Designed for small businesses in emerging markets
+
+**Problem**  
+Small businesses in emerging markets lack scalable digital infrastructure.
+
+**Solution**  
+- Developed a marketplace backend using Django REST  
+- Integrated payment systems  
+- Designed scalable service architecture  
+
+**Impact**  
+Enabled **digital commerce infrastructure for small businesses**, supporting accessibility and growth.
 
 
 ## Tech Stack
 
-**Languages:** Python, JavaScript, C,
+**Languages:** Python, JavaScript, C  
 **AI/ML:** PyTorch, scikit-learn, Hugging Face  
-**Backend:** Django, FastAPI, Flask
-**Frontend:** React.js, React Native, Next.js
+**Backend:** Django, FastAPI, Flask, Node.js  
+**Frontend:** React.js, React Native, Next.js  
 **Deployment:** Docker  
-**Database:** MySQL, PostgreSql
-**Tools:** Git, Linux
+**Database:** MySQL, PostgreSQL  
+**Tools:** Git, Linux  
 
-<p align="center"><b>Kitwana's Stats</b></p>
+
+<p align="center"><b>Language & Contribution Stats</b></p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KitwanaSh&theme=dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KitwanaSh&theme=dark" />
@@ -100,9 +142,14 @@ Focus: real-world disease prediction & data reliability.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KitwanaSh&theme=dark" />
 </p>
 
+
 ## Engineering Philosophy
 
-- Build systems that scale.
-- Write code that others can maintain.
-- Deploy models that deliver measurable value.
-- Improve continuously.
+- Build systems that scale  
+- Write code that others can maintain  
+- Deploy models that deliver measurable value  
+- Improve continuously  
+
+<p align="center">
+  <i>Open to collaboration on impactful AI and software systems</i>
+</p>

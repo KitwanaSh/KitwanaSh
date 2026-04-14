@@ -26,18 +26,11 @@ I believe engineering is about **clarity, reliability, and impact**.
 
 <p align="center"><b>Engineering Activity</b></p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KitwanaSh&hide_border=true&ring=E66E05&fire=E6E605&currStreakLabel=E6E605&background=161711&sideNums=1F2937&currStreakNum=05E653&dates=05E653" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KitwanaSh&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=KitwanaSh&hide_border=true&ring=E66E05&fire=E6E605&currStreakLabel=E6E605&background=161711&sideNums=ffffff&currStreakNum=05E653&dates=05E653" />
 </p>
 
 <p align="center"><b>Contribution Graph</b></p>
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=KitwanaSh&bg_color=161711&color=E66E05&line=E6E605&point=ffffff&area=true&hide_border=true" /> </p>
-
-<p align="center"><b>Kitwana's Stats</b></p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KitwanaSh&theme=dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KitwanaSh&theme=dark" />
-</p>
 
 ## Core Expertise
 
@@ -97,7 +90,15 @@ Focus: real-world disease prediction & data reliability.
 **Database:** MySQL, PostgreSql
 **Tools:** Git, Linux
 
----
+<p align="center"><b>Kitwana's Stats</b></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KitwanaSh&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KitwanaSh&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KitwanaSh&theme=dark" />
+</p>
 
 ## Engineering Philosophy
 

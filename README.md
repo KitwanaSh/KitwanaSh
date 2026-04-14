@@ -32,6 +32,24 @@ I believe engineering is about **clarity, reliability, and impact**.
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=KitwanaSh&bg_color=ffffff&color=1F2937&line=0EA5E9&point=0EA5E9&area=true&hide_border=true" /> </p>
 
+<p align="center"><b>Engineering Analytics</b></p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KitwanaSh&show_icons=true&hide_border=true&title_color=0EA5E9&icon_color=0EA5E9&text_color=1F2937&bg_color=ffffff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitwanaSh&layout=compact&hide_border=true&title_color=0EA5E9&text_color=1F2937&bg_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KitwanaSh&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&background=ffffff&sideNums=1F2937&currStreakNum=1F2937&dates=6B7280" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KitwanaSh&bg_color=ffffff&color=1F2937&line=0EA5E9&point=0EA5E9&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KitwanaSh&theme=default" />
+</p>
 
 ## Core Expertise
 

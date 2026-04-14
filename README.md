@@ -43,9 +43,8 @@ I believe engineering is about **clarity, reliability, and impact**.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KitwanaSh&theme=default" />
 </p>
 
-<p align="center">
-  ![Kitwana's GitHub stats](https://github-readme-stats.vercel.app/api?username=KitwanaSh&show_icons=true&theme=radical)
-</p>
+
+![Kitwana's GitHub stats](https://github-readme-stats.vercel.app/api?username=KitwanaSh&show_icons=true&theme=radical)
 
 ## Core Expertise
 

@@ -48,7 +48,7 @@ I believe engineering is about **clarity, reliability, and impact**.
 
 ### Software Engineering
 - API-first system design
-- Backend architecture (Django, FastAPI, Node.js, Flask)
+- Backend architecture (Django, FastAPI)
 - Frontend architecture (React.js, Next.js, React Native)
 - Clean code & testing practices
 - Dockerized production environments
@@ -112,8 +112,7 @@ Improved **document workflows, traceability, and data accessibility** for NGO op
 Small businesses in emerging markets lack scalable digital infrastructure.
 
 **Solution**  
-- Developed a marketplace backend using Django REST  
-- Integrated payment systems  
+- Developed a marketplace backend using Django REST
 - Designed scalable service architecture  
 
 **Impact**  
